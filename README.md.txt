@@ -9,7 +9,9 @@
 ## Запуск тестов
 python -m unittest test_sum_of_two.py
 
-## Результат
+## Результат выполнения тестов
 
 ......
+Ran 5 tests in 0.001s
+
 OK
